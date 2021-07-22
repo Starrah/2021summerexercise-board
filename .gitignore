@@ -1,0 +1,10 @@
+# 项目排除路径
+/components/posts.js
+/components/posts.js.map
+/components/users.js
+/components/users.js.map
+/node_modules/
+/routes/posts.js
+/routes/posts.js.map
+/routes/users.js
+/routes/users.js.map
